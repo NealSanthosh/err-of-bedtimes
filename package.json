@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@react-navigation/bottom-tabs": "^5.7.1",
-    "expo": "~38.0.8",
+    "expo": "~49.0.3",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
-    "babel-preset-expo": "~8.1.0"
+    "babel-preset-expo": "~9.5.0"
   },
   "private": true
 }
